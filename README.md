@@ -7,10 +7,14 @@ Official implementation of "SGPMamba: A Physical Scattering-Guided Prior-Enhance
 ![Architecture](./Architecture.png)
 *Figure 1: The proposed SGPMamba framework, featuring Scattering-Guided Priors (SGP) and Mamba-based generative backbone.*
 
-## 📊 Visual Results on HRSID/SSDD
-![Visual Results](./Visual_Results.png)
+## 📊 Visual Results on HRSID
+![Visual Results](./visualHRSID.png)
 *Figure 2: Comparison of synthesis results on the HRSID dataset. Our SGPMamba achieves superior texture details and physical scattering consistency.*
-*Figure 3: Comparison of synthesis results on the HRSID dataset. Our SGPMamba achieves superior texture details and physical scattering consistency.*
+
+## 📊 Visual Results on SSDD
+![Visual Results](./visualSSDD.png)
+*Figure 2: Comparison of synthesis results on the SSDD dataset. Our SGPMamba achieves superior texture details and physical scattering consistency.*
+
 ## 🛠️ Requirements
 - Python 3.8+
 - PyTorch 1.12.0
