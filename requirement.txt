@@ -1,0 +1,11 @@
+torch==1.12.0
+torchvision==0.13.0
+numpy
+json
+cv2
+scipy
+skimage
+eniops
+typing
+argparse
+logging
