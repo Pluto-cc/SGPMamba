@@ -13,7 +13,7 @@ Official implementation of "SGPMamba: A Physical Scattering-Guided Prior-Enhance
 
 ## 📊 Visual Results on SSDD
 ![Visual Results](./visualSSDD.png)
-*Figure 2: Comparison of synthesis results on the SSDD dataset. Our SGPMamba achieves superior texture details and physical scattering consistency.*
+*Figure 3: Comparison of synthesis results on the SSDD dataset. Our SGPMamba achieves superior texture details and physical scattering consistency.*
 
 ## 🛠️ Requirements
 - Python 3.8+
