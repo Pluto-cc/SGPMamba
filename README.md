@@ -19,10 +19,10 @@ Official implementation of "SGPMamba: A Physical Scattering-Guided Prior-Enhance
 To enhance the training robustness for maritime Earth observation, we provide refined versions of the widely used SAR datasets:
 - **Refined HRSID & SSDD**: We performed manual data augmentation, including precise **rotation transformations** and **horizontal bounding box (HBB)** recalibration.
 - **Enhanced Utility**: These refinements address the orientation sensitivities of SAR sensors, ensuring high-fidelity generation and more accurate downstream ship detection.
-![Improved Dataset](./Label1.png)
-*Figure 4: Perform horizontal box annotations on the HRSID dataset
-![Improved Dataset](./Label2.png)
-*Figure 4: Perform rotation box and horizontal box annotations on the SSDD dataset
+- 
+![Improved Dataset](./Label1.png) ![Improved Dataset](./Label2.png)
+*Figure 4: Perform rotation box and horizontal box annotations on the HRSID and SSDD datasets
+
 ## 🛠️ Requirements
 - Python 3.8+
 - PyTorch 1.12.0
