@@ -21,6 +21,7 @@ To enhance the training robustness for maritime Earth observation, we provide re
 - **Enhanced Utility**: These refinements address the orientation sensitivities of SAR sensors, ensuring high-fidelity generation and more accurate downstream ship detection.
 - 
 ![Improved Dataset](./Label1.png) ![Improved Dataset](./Label2.png)
+
 *Figure 4: Perform rotation box and horizontal box annotations on the HRSID and SSDD datasets
 
 ## 🛠️ Requirements
