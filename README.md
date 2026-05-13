@@ -1,7 +1,7 @@
 # SGPMamba
 Official implementation of "SGPMamba: A Physical Scattering-Guided Prior-Enhanced Mamba Model for High-Fidelity SAR Ship Generation in Complex Backgrounds"
 ## 🚀 News
-- **[2026/07]**: The paper is currently under review in *International Journal of Applied Earth Observation and Geoinformation*.
+- **[2026/07]**: The paper is currently under review in *Knowledge-Based Systems*.
 - **[2026/07]**: Added plans to release the **Improved SAR Datasets** (manually refined HRSID/SSDD with optimized annotations).
 ## 🏗️ Model Architecture
 ![Architecture](./Architecture.png)
