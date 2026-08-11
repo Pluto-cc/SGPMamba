@@ -1,0 +1,36 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>P0001_1800_2600_0_800.jpg</filename>
+	<path>JPEGImages</path>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>32</ymin>
+			<xmax>382</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<type>bndbox</type>
+		<name>sea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>16</ymin>
+			<xmax>740</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

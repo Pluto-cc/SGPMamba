@@ -1,0 +1,36 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>P0001_3600_4400_6600_7400.jpg</filename>
+	<path>JPEGImages</path>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>443</ymin>
+			<xmax>154</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<type>bndbox</type>
+		<name>sea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>34</ymin>
+			<xmax>756</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>
